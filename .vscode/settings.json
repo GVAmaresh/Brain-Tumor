@@ -1,0 +1,4 @@
+{
+  "java.debug.settings.vmArgs": "\"python.dataScience.plotting.autoShowPlotPane\": true",
+  "jupyter.themeMatplotlibPlots": true
+}
